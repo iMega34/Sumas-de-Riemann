@@ -16,12 +16,12 @@ posible visualizar la función ingresada con los datos ingresados y el área apr
   
 <<< PARA CONVERTIR EN .EXE >>>
 
-                          --- IMPORTANTE ---
+  --- IMPORTANTE ---
   El archivo en formato .exe tiene un peso de aproximadamente 69.1 MB
 
   - Requiere pyinstaller v5.7.0 o superior
   - Abrir la terminal e ingresar el comando:
-    >>> flet pack main.py
+    "flet pack main.py"
 
 <<< CHANGELOG >>>
 
