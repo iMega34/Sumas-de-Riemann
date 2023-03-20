@@ -32,3 +32,11 @@ posible visualizar la función ingresada con los datos ingresados y el área apr
   - Cálculos usando Numpy
   - Accesible para cualquiera interesado en el tema
   
+--- v1.1 ---
+
+  - Se añadió un parser de LaTeX, el cual permite ver cómo es la función que se va a graficar
+  - Las entradas de texto reconocen pi y e como constantes
+  - Se cambiaron de ubicación algunos elementos para optimizar el espacio usado
+  - Se mejoraron algunos elementos visuales del graficador para armonizar la paleta de colores
+  - Se mejoró la experiencia visual en general
+
