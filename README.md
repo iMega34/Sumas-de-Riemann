@@ -7,7 +7,7 @@ Programa con interfaz sencilla para realizar sumas de Riemann. Permite ingresar 
 los límites de integración y el número de particiones. La interfaz trabaja con matplotlib, haciendo 
 posible visualizar la función ingresada con los datos ingresados y el área aproximada bajo la curva.
 
-## Previw de la aplicación
+## Preview de la aplicación
 
 ![Preview](/assets/preview1.png "Ventana principal")
 
